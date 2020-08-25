@@ -25,4 +25,8 @@ cra <app name>
 
 ![Screenshot of Alfred running the workflow 2](https://p97.f4.n0.cdn.getcloudapp.com/items/eDuBlxvR/Screen%20Shot%202020-08-25%20at%2012.41.52%20PM.png?source=viewer&v=02730396dd1f3026f96e0da311031ab8)
 
-4) The create react app command will run in your terminal; install it on the directory you predefined; and open it on [VSCode](https://code.visualstudio.com/)
+4) The create react app command will run in your terminal
+
+5) It will be installed on the directory you predefined
+
+6) It will open automatically on [VSCode](https://code.visualstudio.com/)
