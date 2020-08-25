@@ -1,6 +1,8 @@
 # Alfred Create React App Workflow
 Run [Create React App](https://create-react-app.dev/) straight from [Alfred](https://www.alfredapp.com/) on OSX
 
+![Screenshot of Alfred running the workflow 1](https://p97.f4.n0.cdn.getcloudapp.com/items/Qwu0477A/Screen%20Shot%202020-08-25%20at%2012.47.22%20PM.png?source=viewer&v=f0e7ed5827668d602e7f0e1307a9f5b8)
+
 ## Setup
 
 1) Download and install the workflow file;
@@ -21,6 +23,6 @@ or with the shortened command
 cra <app name>
 ```
 
-![Screenshot of Alfred running the workflow](https://p97.f4.n0.cdn.getcloudapp.com/items/eDuBlxvR/Screen%20Shot%202020-08-25%20at%2012.41.52%20PM.png?source=viewer&v=02730396dd1f3026f96e0da311031ab8)
+![Screenshot of Alfred running the workflow 2](https://p97.f4.n0.cdn.getcloudapp.com/items/eDuBlxvR/Screen%20Shot%202020-08-25%20at%2012.41.52%20PM.png?source=viewer&v=02730396dd1f3026f96e0da311031ab8)
 
 4) The create react app command will run in your terminal; install it on the directory you predefined; and open in on VSCode
