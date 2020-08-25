@@ -16,7 +16,7 @@ Run [Create React App](https://create-react-app.dev/) straight from [Alfred](htt
 
 3) and run it with
 ```
-create react app <app name
+create react app <app name>
 ```
 or with the shortened command 
 ```
